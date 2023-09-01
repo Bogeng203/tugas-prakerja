@@ -1,0 +1,47 @@
+/* Minimal 5 selector */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+.bg-tosca {
+    background-color: #017979;
+}
+.image-sea {
+    height: 720px;
+    object-fit: cover;
+}
+.title {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+#experiences {
+    padding: 40px;
+}
+footer {
+    color: white;
+    background-color:  #017979;
+    padding: 20px;
+}
+footer a {
+
+    color: white;
+}
+#award   {
+    color: #017979;
+    text-align: center;
+    padding: 40px;
+}
+#award h1 {
+    font-family: 'Dancing Script', cursive;
+}
+.card {
+    margin-bottom: 16px;
+}
+.navbar {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+}
